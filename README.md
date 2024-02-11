@@ -7,3 +7,4 @@ Non-Atomic vs Atomic version of the increment operation.
 
 As the increment (++) operation is inherently non-atomic, a pessimistic locking mechasim has been utilized to make it thread-safe i.e, produces predictable results.
 
+Reference: https://youtu.be/4F-WiPFrPsA?si=BOiR3vyPPYIGtiv5
